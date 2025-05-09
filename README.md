@@ -23,3 +23,6 @@ Ich denke scrum ist eine gute Methode um software zu entwickeln, aber das Projek
 - [x] Python ML repetiert
 - [x] OSU! Beatmap dataset gesucht und geladen
 - [x] OSU! beatmap syntax analysiert und docs gelesen
+
+#### Notiz
+Aktuelles Projektziel: OSU! bot mit ML
