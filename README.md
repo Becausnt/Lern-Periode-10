@@ -64,6 +64,6 @@ Ich bin gleichzeitig erleichtert (mein Script funktioniert nämlich nicht) und e
 Naja, jetzt sollte es wenigstens wieder ein wenig schneller vorwärtsgehen.
 
 [Osu!](https://osu.ppy.sh/)  
-[Osu!Lazer GitHub](https://github.com/ppy/osu)  
+[Osu!Lazer (Source)](https://github.com/ppy/osu)  
 [.osu](https://osu.ppy.sh/wiki/en/Client/File_formats/osu_%28file_format%29)  
 [.osr](https://osu.ppy.sh/wiki/en/Client/File_formats/osr_%28file_format%29)
