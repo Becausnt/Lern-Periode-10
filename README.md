@@ -67,3 +67,15 @@ Naja, jetzt sollte es wenigstens wieder ein wenig schneller vorwärtsgehen.
 [Osu!Lazer (Source)](https://github.com/ppy/osu)  
 [.osu](https://osu.ppy.sh/wiki/en/Client/File_formats/osu_%28file_format%29)  
 [.osr](https://osu.ppy.sh/wiki/en/Client/File_formats/osr_%28file_format%29)
+
+## 23/05/2025
+### Arbeitspakete
+- [x] Osu! ML-optimierter skin fertigstellen
+- [x] Osu! Video von Map-Datei erstellen
+- [ ] Osu! replay von Map-Datei erstellen
+
+### Notiz
+Der Skin funktioniert jetzt, ich habe es geschaft mit (danser)[https://github.com/Wieku/danser-go] ein video eines perfekten Replays von einer Map zu erstellen.<br>
+Das nächste Mal experimentiere ich noch mit dem Osu-headless mode. Ich habe heute Danser verwendet, da es einiges leichter ist als der ganze osu-client und deshalb hoffentlich auch schneller, aber die Erstellung von Videos ist langsam (weiss nicht ob headless besser ist) und es ignoriert einige meiner Einstellungen. Zudem, wie ich nun herausgefunden habe, unterstützt es den Export der Replay-Daten nicht und das Video allein ist eher nutzlos.<br>
+Osu headless sollte all das hoffentlich unterstützen und dann könnte ich vielleicht bald mit dem Training anfangen.<br>
+Ich habe realisiert: Datenaufbereitung ist genau so mühsam wie Modeltraining, wenn nicht sogar mehr.
