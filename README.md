@@ -79,3 +79,12 @@ Der Skin funktioniert jetzt, ich habe es geschaft mit [danser](https://github.co
 Das nächste Mal experimentiere ich noch mit dem Osu-headless mode. Ich habe heute Danser verwendet, da es einiges leichter ist als der ganze osu-client und deshalb hoffentlich auch schneller, aber die Erstellung von Videos ist langsam (weiss nicht ob headless besser ist) und es ignoriert einige meiner Einstellungen. Zudem, wie ich nun herausgefunden habe, unterstützt es den Export der Replay-Daten nicht und das Video allein ist eher nutzlos.<br>
 Osu headless sollte all das hoffentlich unterstützen und dann könnte ich vielleicht bald mit dem Training anfangen.<br>
 Ich habe realisiert: Datenaufbereitung ist genau so mühsam wie Modeltraining, wenn nicht sogar mehr.
+
+## 07/06/2025
+### Arbeitspakete
+- [x] LB254 HZ1.1 Korrigieren
+- [x] LB254 HZ3.1 Machen
+- [x] LB254 HZ3.2 Machen
+
+### Notiz
+Heute habe ich an der LB254 gearbeitet, da wir momentan viele Prüfungen haben und ich deshalb froh bin wenn ein wenig dieser Arbeitslast im Lernatelier ablegen kann um auch noch für die Kanti-Fächer zu lernen. Das Modul 254 ist ein wenig trocken mit viel Theorie, aber ich denke ich habe es verstanden und es scheint nicht sehr kompliziert. (Mindestens die Grundlagen)
